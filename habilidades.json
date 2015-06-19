@@ -1,0 +1,98 @@
+{  "name": "I need someone who...",
+    "children":[
+    {
+        "name": "Wants to make the world a better place",
+        "children": [
+            {"name": "taught language classes to monks"},
+            {"name": "teaches people how to ride bikes"},
+            {"name": "bike buddy"},
+            {"name": "taught math to poor people"},
+            {"name": "participates in Wikipedia"},
+            {"name": "is a member of the OpenStreetMap Foundation in Brazil"}
+        ]
+    },
+    
+    {   "name": "Can do fancy presentations",
+        "children": [
+            {"name": "seriously, look at this!"}
+        ]
+    },
+    {
+        "name": "Authors Free Software",
+        "children": [
+            {"name": "made an bicycle routing website",
+            "children": [{"name": "won 2nd place in a hackathon with that project"}]
+        }
+        ]
+
+    },
+    {
+        "name": "Wears many hats",
+        "children":[
+            {"name": "tech support"},
+            {"name": "trained other staff"},
+            {"name": "spoke in technical conferences"},
+            {"name": "sysadmin",
+             "children": [
+                {"name": "and programmer"}
+             ]
+            },
+            {"name": "degree in Applied Mathematics",
+             "children": [
+                {"name": "with research in graph theory"}
+             ]
+            },
+    {"name": "worked in business intelligence"}
+        ]
+    },
+    {
+        "name": "Thinks outside the box",
+        "children":[
+            {"name": "practices meditation"},
+            {"name": "commutes by bike"},
+            {"name": "thinks vanilla resumes are boring"},
+            {"name": "couchsurfs"}
+        ]
+    },
+    {
+        "name": "Can work under any environment",
+        "children":[
+            {"name": "big or small companies"},
+            {"name": "with/without pressure"},
+            {"name": "in different countries",
+            "children": [
+                {"name": "born and raised in Brazil",
+                "children": [{"name": "lived and worked in Spain for 1 year"}]
+                }
+             ]},
+            {"name": "NGOs, small companies, banks"}
+        ]
+    },
+    {
+        "name": "Can talk to customers",
+        "children": [
+            {"name": "worked in tech support",
+            "children": [{"name": "In 3 different languages"}]
+            }
+        ]
+    },
+    {"name": "Knows human languages",
+    "children": [
+        {"name": "and a bit of catalan"},
+        {"name": "some japanese"},
+        {"name": "spanish"},
+        {"name": "english"},
+        {"name": "portuguese"}
+
+    ]
+    },
+        {
+        "name": "Knows programming languages",
+        "children": [
+            {"name": "Python"},
+            {"name": "Worked in Opensource software"},
+            {"name": "Bash, C, Perl, VBA, SAS..."}
+        ]
+    }
+]
+}
