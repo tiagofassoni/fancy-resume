@@ -4,45 +4,51 @@
         "name": "Wants to make the world a better place",
         "children": [
             {"name": "taught language classes to monks"},
-            {"name": "teaches people how to ride bikes"},
-            {"name": "bike buddy"},
-            {"name": "taught math to poor people"},
+            {"name": "is in the bicycle activist movement"},
             {"name": "participates in Wikipedia"},
-            {"name": "is a member of the OpenStreetMap Foundation in Brazil"}
+            {"name": "works with independent journalists"},
+            {"name": "is a member of OpenStreetMap in Brazil"},
+            {"name": "is helping to organize State of The Map LATAM 2016"}
         ]
     },
-    
+    {
+      "name": "Is a hacktivist",
+        "children":[
+          {"name": "Created crawlers to open the Land Registry Records in São Paulo"},
+          {"name": "Worked with independent journalists"},
+          {"name": "Data Science aided-reporting for Transparency International"}
+        ]
+
+    },
     {   "name": "Can do fancy presentations",
         "children": [
             {"name": "seriously, look at this!"}
         ]
     },
     {
-        "name": "Authors Free Software",
+        "name": "Is a Free Software and Open Data activist",
         "children": [
-            {"name": "made an bicycle routing website",
+            {"name": "made an bicycle routing app",
             "children": [{"name": "won 2nd place in a hackathon with that project"}]
-        }
+            },
+            {
+              "name": "Is a Member of OpenStreetMap in Brazil"
+            },
+            {"name": "Created websites for the Public Sector in São Paulo using Jekyll, Github Pages and Wordpress"},
+            {"name": "Is Mapillary's ambassador in Brazil"}
         ]
-
     },
     {
         "name": "Wears many hats",
         "children":[
             {"name": "tech support"},
-            {"name": "trained other staff"},
-            {"name": "spoke in technical conferences"},
-            {"name": "sysadmin",
-             "children": [
-                {"name": "and programmer"}
-             ]
-            },
-            {"name": "degree in Applied Mathematics",
-             "children": [
-                {"name": "with research in graph theory"}
-             ]
-            },
-    {"name": "worked in business intelligence"}
+            {"name": "trains staff"},
+            {"name": "speaks in technical conferences"},
+            {"name": "data scientist"},
+            {"name": "sysadmin"},
+            {"name": "programmer"},
+            {"name": "degree in Applied Mathematics","children": [{"name": "with research in graph theory"}]},
+            {"name": "worked in Business Intelligence"}
         ]
     },
     {
@@ -51,29 +57,30 @@
             {"name": "practices meditation"},
             {"name": "commutes by bike"},
             {"name": "thinks vanilla resumes are boring"},
-            {"name": "couchsurfs"}
+            {"name": "couchsurfing"}
         ]
     },
     {
-        "name": "Can work under any environment",
+        "name": "Has worked under any environment",
         "children":[
             {"name": "big or small companies"},
             {"name": "with/without pressure"},
             {"name": "in different countries",
             "children": [
                 {"name": "born and raised in Brazil",
-                "children": [{"name": "lived and worked in Spain for 1 year"}]
+                 "children": [{"name": "lived and worked in Spain for 1 year"}]
                 }
              ]},
-            {"name": "NGOs, small companies, banks"}
+            {"name": "NGOs, small companies, banks, public sector"}
         ]
     },
     {
         "name": "Can talk to customers",
         "children": [
             {"name": "worked in tech support",
-            "children": [{"name": "In 3 different languages"}]
-            }
+             "children": [{"name": "In 3 different languages"}]
+           },
+           {"name": "Is a Freelance developer nowadays"}
         ]
     },
     {"name": "Knows human languages",
@@ -90,6 +97,7 @@
         "name": "Knows programming languages",
         "children": [
             {"name": "Python"},
+            {"name": "JavaScript"},
             {"name": "Worked in Opensource software"},
             {"name": "Bash, C, Perl, VBA, SAS..."}
         ]
