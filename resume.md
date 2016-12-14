@@ -1,6 +1,6 @@
 # Tiago Fassoni
 ## Programmer, Data Scientist, Activist
-> [tiagofassoni@gmail.com](tiagofassoni@gmail.com)  
+> [tiagofassoni@gmail.com](tiagofassoni@gmail.com)
 > +55 11 96068-4321
 >
 > São Paulo, Brazil
@@ -10,19 +10,19 @@
 ### Selected Recent Projects
 
 Collaborative discussion platform for Points of Interest
-:  
+:
   Thanks to a judicial decision, São Paulo City Hall has to place 3.000 bicycle stands all around the city as soon as possible. Together with a team, we won an grant to make a platform so people could take pictures of where they want a a bicycle stand, annotate that point, discuss it with other people and receive an adequate answer from the city hall. I made the entire platform and made it extensible for uses in other projects. One project that is using the platform is an effort to show usage of São Paulo bike lanes
 
 Website with several Open Data Analysis
-:  
+:
   There is a lack of Open Data reporting in Brazil, one of the reasons being illiteracy to the data programming ecosystem. I created a website, https://cappuccino.works, showing different angles of public datasets. I made a point of publishing all the code used to make the analysis, and the datasets in a queryable format, so they can be easily reproduced, and easily understood by journalists. So far, the plan is working, several independent journalists cited the website as a source.
 
 Crawl of São Paulo Land Records Database
-:  
+:
   The Land Records in São Paulo are public domain, but hidden in obnoxious web systems. I created crawlers to open the dataset the hard way. There were attempts to block my crawlers (with IP blocks and CAPTCHAs), but I dodged them (also found a bug in the CAPTCHA implementation). The crawl allowed data-driven reports in local independent journalism and a collaboration with Transparency International.
 
 Collaborative mapping of São Paulo bike lanes
-:  
+:
   When the City Hall made a network of bike lanes, there was no way to route through them. Besides lack of software, we had a lack of data. As a developer in Mobilab and a local bicycle activist, I partnered with Citymapper and Mapillary to map them in OpenStreetMap. I ended Mapillary's Brazil ambassador and I'm making with São Paulo's Ciclocidade a map of friendly routes (not necessarily in bicycle lanes) in São Paulo using OpenStreetMap
 
 ------
@@ -95,6 +95,14 @@ Undergraduate Scholarship, 2006
 
 Undergraduate Scholarship, 2005
 : Scholarship for Undergraduate Research Project on Graph Theory
+
+--------
+
+### Education
+
+Campinas State University, Brazil
+: Major in Applied and Computational Mathematics
+2009
 
 --------
 
